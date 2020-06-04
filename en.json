@@ -1,0 +1,72 @@
+{
+  "HOME": {
+    "HELLO": "Hello {{name}} !",
+    "stripeline": "History Starts Here",
+    "buttons": {
+      "viewArchive": "View Archive",
+      "myArchive": "My Archive",
+      "logout": "Logout",
+      "register": "Register",
+      "login": "Login"
+    },
+    "maintext": {
+      "welcome": "Welcome!",
+      "whatisthisHTML": "This is Aeterna.me, a project developed to celebrate people's life stories and an attempt to bring it through the ages. It's both a Wikipedia of ordinary people's lives&ideas and a modern <a target='_blank' href='http:\/\/en.wikipedia.org/wiki/Cueva_de_las_Manos'>Cave of Hands.</a>",
+      "letstrytogather": "Let's try to achieve this together!",
+      "ordinarylifes": "Would you be interested in reading about a that ordinary Joe thought of Russian revolution? Well, you can't.",
+      "shareyourthougths": "What if you were able to share your thoughts about COVID-19 with future generations?",
+      "ihope": "In any way, I hope you enjoy being here.",
+      "norules": "There are no rules. There are no likes, ratings or any judgment. It's nothing to History. You could either go on a journey of reading about someone's life & experiences.",
+      "createaccount": "  Or create an account and let the world of the future know about yourself or someone who had an impact on you.You also could add your thoughts on any subject to the archive and set it to go public in 10-20-30-100 years.",
+      "pleasemindHTML": "Please mind, this project is under development, and there is a significant number of improvements coming. If you want to support, visit <a href='http:\/\/patreon.com/aetername' target='_blank'>Patreon page</a>, buy a sponsored Page Number (under development) or tell a friend!",
+      "iwill": " I will do whatever I can to keep this project running. However, there will be no ads here. No data will be sold. Good luck to me...But I won't be able to do it alone:)"
+    }
+  },
+  "footer": {
+    "twitter": "Follow me!",
+    "discord": "Join discussion!"
+  },
+  "archive": {
+    "buttons": {
+      "back": "Back",
+      "next": "Next Random"
+    },
+    "labels": {
+      "filtertype": "Type"
+    },
+    "msg": {
+      "nocontent1": " No content found in selected language. Be first and",
+      "registerandcreate": "Register&Create!"
+    }
+  },
+  "myarchive": {
+    "buttons": {
+      "create": "Create",
+      "edit": "Edit",
+      "save": "Save & Continue",
+      "saving": "Saving..",
+      "cancel": "Cancel"
+    },
+    "labels": {
+      "edit": {
+        "sharableurl": "Sharable Url",
+        "common": "Common Attributes",
+        "new": "New Language",
+        "name": "Name/Title",
+        "nameudner": "Please consider to include latin spelling",
+        "publicdate": "Public Date",
+        "publicdateunder": "When this should go public?",
+        "allowpublicbackup": "Allow public backup",
+        "mainimage": "Choose Main Picture",
+        "profilecard": "Profile Card",
+        "mainview": "Main View",
+        "thetextplaceholder": "The text will go here, you will add it on the next step",
+        "brieftext": "Brief text",
+        "editorplaceholder": "Just start typing here,this form will auto grow"
+      }
+    }
+  },
+  "langselector": {
+    "select": "Select Language..."
+  }
+}
