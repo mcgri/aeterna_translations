@@ -2,8 +2,10 @@
   "HOME": {
     "HELLO": "Привет {{name}} !",
     "stripeline": "История начинается здесь",
+    "understripeline": "Пора записывать!",
     "buttons": {
       "viewArchive": "Архив",
+      "CreateNow": "Создать Аккаунт",
       "myArchive": "Мой Архив",
       "logout": "Выход",
       "register": "Регистрация",

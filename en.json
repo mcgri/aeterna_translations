@@ -1,9 +1,11 @@
 {
   "HOME": {
     "HELLO": "Hello {{name}} !",
-    "stripeline": "History Starts Here",
+    "stripeline": "No life should be hidden",
+    "understripeline": "No life should be forgotten",
     "buttons": {
       "viewArchive": "View Archive",
+      "CreateNow": "Tell your story",
       "myArchive": "My Archive",
       "logout": "Logout",
       "register": "Register",
@@ -11,20 +13,20 @@
     },
     "maintext": {
       "welcome": "Welcome!",
-      "whatisthisHTML": "This is Aeterna.me, a project developed to celebrate people's life stories and an attempt to bring it through the ages. It's both a Wikipedia of ordinary people's lives&ideas and a modern <a target='_blank' href='http:\/\/en.wikipedia.org/wiki/Cueva_de_las_Manos'>Cave of Hands.</a>",
-      "letstrytogather": "Let's try to achieve this together!",
-      "ordinarylifes": "Would you be interested in reading about a that ordinary Joe thought of Russian revolution? Well, you can't.",
-      "shareyourthougths": "What if you were able to share your thoughts about COVID-19 with future generations?",
-      "ihope": "In any way, I hope you enjoy being here.",
-      "norules": "There are no rules. There are no likes, ratings or any judgment. It's nothing to History. You could either go on a journey of reading about someone's life & experiences.",
-      "createaccount": "  Or create an account and let the world of the future know about yourself or someone who had an impact on you.You also could add your thoughts on any subject to the archive and set it to go public in 10-20-30-100 years.",
-      "pleasemindHTML": "Please mind, this project is under development, and there is a significant number of improvements coming. If you want to support, visit <a href='http:\/\/patreon.com/aetername' target='_blank'>Patreon page</a>, buy a sponsored Page Number (under development) or tell a friend!",
-      "iwill": " I will do whatever I can to keep this project running. However, there will be no ads here. No data will be sold. Good luck to me...But I won't be able to do it alone:)"
+      "whatisthisHTML": "This is Aeterna.me, a completely free project. Developed to celebrate people's life stories and an attempt to bring it through the ages, it's both a Wikipedia of ordinary people's lives & ideas, as well as acts as a modern  <a target='_blank' href='http:\/\/en.wikipedia.org/wiki/Cueva_de_las_Manos'>Cave of Hands.</a>",
+      "letstrytogather": "Everyone's life story matters",
+      "ordinarylifes": "There are a significant number of ordinary people whose voices will be forgotten. Let's fix that!",
+      "shareyourthougths": "Pages on Wikipedia lack a human soul, and only consist of dry facts. Pages on Facebook will always fight for advertisers money.",
+      "ihope": "I hope you enjoy OUR platform",
+      "norules": "There are no rules, likes, ratings, or any kind of judgement. These things mean nothing when you are gone. Create an account and let the world know about yourself, or even someone else who has had an impact on your life",
+      "createaccount": "You can also add any thoughts you may have on any subject to the archive, and set it to go public in 10, 20, 30, or even 100 years from now.",
+      "pleasemindHTML": "To learn more about this project, visit my <a href='http:\/\/patreon.com/aetername' target='_blank'>Patreon page</a>  or send me a message on  <a href='https:\/\/twitter.com/MeAeterna' target='_blank'>Twitter </a> ",
+      "iwill": "I will do whatever I can to keep this project running. However, there will be NO ads here, and also NO data of any kind will ever be sold. Please help me out by sharing this website with a friend!"
     }
   },
   "footer": {
     "twitter": "Follow me!",
-    "discord": "Join discussion!"
+    "discord": "Join the discussion"
   },
   "archive": {
     "buttons": {
@@ -35,7 +37,7 @@
       "filtertype": "Type"
     },
     "msg": {
-      "nocontent1": " No content found in selected language. Be first and",
+      "nocontent1": " No public content found in selected language. Be first and",
       "registerandcreate": "Register&Create!"
     }
   },
@@ -45,7 +47,8 @@
       "edit": "Edit",
       "save": "Save & Continue",
       "saving": "Saving..",
-      "cancel": "Cancel"
+      "cancel": "Cancel",
+      "buyvip": "Save & Get unique page number"
     },
     "labels": {
       "edit": {
